@@ -1,0 +1,40 @@
+body
+{
+    background-size: cover;
+}
+
+#heading
+{
+    width: 100%;
+    font-size: 30px;
+}
+#note
+{
+    color: black;
+    font-size: 15px;
+}
+
+canvas
+{
+border: 2px solid white;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px white;
+padding: 5px;
+}
+
+#status
+{
+    background-color: wheat;
+    font-size:15px;
+    padding:5px;
+    margin:5px;
+}
+
+#home
+{
+    background-color: wheat;
+    font-size:15px;
+    padding:5px;
+    margin:10px;
+}
